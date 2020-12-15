@@ -2,3 +2,8 @@
 database:
   url: jdbc:mysql://111.229.3.73:3306/shop-cloud-user?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true
   ## password: *****
+
+# 功能开关 - 开启/关闭注册功能
+userservice:
+  registration: 
+    disabled: false
