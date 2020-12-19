@@ -9,3 +9,10 @@ management:
         include: '*'
   security:
     enabled: false
+
+## 自定义项目说明信息
+info:
+  project-name: "user-service"
+  author: "noe"
+  phone: 1661994****
+  email: "noe@familyz.xyz"
