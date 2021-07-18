@@ -1,7 +1,7 @@
 ## 数据库连接串
 database:
   url: jdbc:mysql://111.229.3.73:3306/shop-cloud-user?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true
-  ## password: *****
+  password: '{cipher}8b2a5fab6727b0ac2cd2eb6d9121ba8effb229623eb382f62824f4d2e40c7bcd'
 
 # 功能开关 - 开启/关闭注册功能
 userservice:
